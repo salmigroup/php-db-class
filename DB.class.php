@@ -1,5 +1,6 @@
 <?php
 
+require('Helper.class.php');
 /**
  * DB class
  * class creadted By SalmiGroup solutions company
